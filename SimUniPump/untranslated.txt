@@ -1,0 +1,26 @@
+# NAFTA POS Language file
+# Format spec: Ignored empty line & line with first char '#' 
+# <src_language_line> 
+# <dst_language_line> 
+# !!! NOT TRANSLATED MESSAGES !!!
+#0001)----------------------------------------
+" (Aдрес = "
+" (Aдрес = "
+#0002)----------------------------------------
+"Pulses before slowing "
+"Pulses before slowing "
+#0003)----------------------------------------
+"Pump performanse (l/s)"
+"Pump performanse (l/s)"
+#0004)----------------------------------------
+"Serial settings"
+"Serial settings"
+#0005)----------------------------------------
+"Slowing (l/s)"
+"Slowing (l/s)"
+#0006)----------------------------------------
+"Start from: "
+"Start from: "
+#0007)----------------------------------------
+"Режим работы ТРК"
+"Режим работы ТРК"

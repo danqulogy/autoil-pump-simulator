@@ -1,0 +1,9 @@
+UniPump simulator communication settings:
+Baud rate = 9600
+Bit = 8
+Stop bits = 1
+Parity = none
+
+PTS controller adjustments:
+Pump channel protocol - "2. UniPump"
+Baud rate - "4. 9600"
